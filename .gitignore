@@ -1,0 +1,44 @@
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex
+*.nav
+*.snm
+*.vrb
+
+# LaTeX intermediate/backup files
+*.dvi
+*.ps
+*.xdv
+*.run.xml
+*.bcf
+*.acn
+*.acr
+*.alg
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Editor swap/backup files
+*~
+*.swp
+*.bak
+*.backup
+*.tmp
+*.DS_Store
+Thumbs.db
+
+# Output directory if used
+output/
+build/
