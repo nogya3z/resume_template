@@ -12,7 +12,7 @@ There are various instructions online on how to setup a LaTeX environment, which
 
 ## Stylistic Decisions
 
-I am grateful for the following [template](https://www.overleaf.com/latex/templates/ethans-resume-template/kwmtbntyvhhr) I found on overleaf, which I based my `standard` resume on. It is the most traditional, black and white, concise style format of a resume that seems to be most common amongst proffesionals. You can't go wrong with it.
+I am grateful for the following [template](https://www.overleaf.com/latex/templates/ethans-resume-template/kwmtbntyvhhr) I found on overleaf, which I based my `standard` resume on. It is the most traditional, black and white, concise format of a resume that seems to be most common amongst proffesionals. You can't go wrong with it.
 
 One simple change I made was moving the contact options to the left of the about section which have an added functionality of being clickable and opening to their associated hyperlink ie Github, Linkedin, etc. I like this because it saves spaces and provides some intuitive access to more information.
 
